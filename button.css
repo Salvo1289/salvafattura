@@ -1,0 +1,46 @@
+.button {
+    background: #119c72;
+    background-image: -webkit-linear-gradient(top, #119c72, #119c75);
+    background-image: -moz-linear-gradient(top, #119c72, #119c75);
+    background-image: -ms-linear-gradient(top, #119c72, #119c75);
+    background-image: -o-linear-gradient(top, #119c72, #119c75);
+    background-image: linear-gradient(to bottom, #119c72, #119c75);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 10px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.button:hover {
+    background: #119c72;
+    background-image: -webkit-linear-gradient(top, #119c72, #119c75);
+    background-image: -moz-linear-gradient(top, #119c72, #119c75);
+    background-image: -ms-linear-gradient(top, #119c72, #119c75);
+    background-image: -o-linear-gradient(top, #119c72, #119c75);
+    background-image: linear-gradient(to bottom, #119c72, #119c75);
+    text-decoration: none;
+}
+
+.title{
+    font-family: ABeeZee ;
+    line-height: 1em;
+    color: #119c72;
+    font-size: 80px;
+    text-shadow:0px 0px 0 rgb(-6,133,91),1px 1px 0 rgb(-18,121,79),2px 2px 0 rgb(-31,108,66),3px 3px 0 rgb(-43,96,54),4px 4px 0 rgb(-56,83,41),5px 5px 0 rgb(-68,71,29),6px 6px 0 rgb(-81,58,16), 7px 7px 0 rgb(-94,45,3),8px 8px 7px rgba(0,0,0,0.45),8px 8px 1px rgba(0,0,0,0.5),0px 0px 7px rgba(0,0,0,.2);}
+
+.box {
+    -webkit-box-shadow: 6px 9px 10px 3px #C2C2C2;
+    -moz-box-shadow: 6px 9px 10px 3px #C2C2C2;
+    box-shadow: 6px 9px 10px 3px #C2C2C2;
+
+    align-content: space-between;
+    background-color: #F5F5F5;
+    width: 50%;
+    height: 30%;
+    position: absolute;
+
+}
